@@ -4,13 +4,14 @@
 
 body{ background-image: url(photo_5970037097748350210_y.jpg);
     background-size: 100%;
+    margin: 0%;
 }
 
 
-.testo1{font-size: 45px;    
+/* .testo1{font-size: 45px;    
         color: black;
         font-style: oblique;  
-}
+} */
 
 
 .foto{ position: fixed;
@@ -19,3 +20,19 @@ body{ background-image: url(photo_5970037097748350210_y.jpg);
     margin-left: 500px
 }
 
+.navbar{ margin-top: 0%;
+         padding-top: 0%;
+         background-color: rgb(80, 70, 70);
+}
+
+li{ display: inline;
+}
+
+.li a{
+
+}
+
+
+lista{
+    color: black;
+}
