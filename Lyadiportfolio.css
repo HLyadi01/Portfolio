@@ -1,0 +1,21 @@
+
+
+
+
+body{ background-image: url(photo_5970037097748350210_y.jpg);
+    background-size: 100%;
+}
+
+
+.testo1{font-size: 45px;    
+        color: black;
+        font-style: oblique;  
+}
+
+
+.foto{ position: fixed;
+    display: flex;
+    margin-right: 300px;
+    margin-left: 500px
+}
+
